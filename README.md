@@ -1,27 +1,22 @@
-<div id="header" align="center">
-  <img src="https://petriwna.github.io/portfolio/public/images/img-hero1.png" width="100"/>
+# Hi, I'm Nataliia   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/nataliia-sychevska-155714241/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/petriwna" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=petriwna&color=DE002D">
+👩‍💻 Front-end developer with experience in creating responsive interfaces and modern web applications. Skilled in development using HTML, CSS and JavaScript to create intuitive and functional user interfaces.
+
+<p align='center'>
+   <a href="https://github.com/petriwna/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=petriwna&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/nataliia-sychevska-155714241/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+   <a href="https://t.me/petriwna">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:sychevska.nataliia.20@gmail.com'>sychevska.nataliia.20@gmail.com</a>
+</p>
 
 ### :woman_technologist: About Me :
 
